@@ -131,6 +131,8 @@
 * [GUdemyBot](https://t.me/GUdemyBot) - Udemy Coupon Bot
 * [Fresh Coupons](https://github.com/KajanM/fresh-coupons) - Automatically Apply Discount Coupons on Udemy Courses / [Chrome](https://chrome.google.com/webstore/detail/fresh-coupons/pbnfeejfjlmmjfgnmmfpalhlpjidlgie)
 * [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches
+* [Freewebcart](https://www.freewebcart.com/) - Get certified with Udemy Free Courses with Certificate. Boost your skills, learn from experts, and start your success journey today.
+
 
 ***  
 
